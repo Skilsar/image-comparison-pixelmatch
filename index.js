@@ -74,5 +74,5 @@ const compareImage = async (twitterProfilePicURL, assetCDNURL) => {
 };
 
 loadPixelmatch().then(() => {
-  compareImage("./img/kik.png", "./img/askfm.png");
+  compareImage("./img/KYSk5JXjdeh.png", "./img/kik.png");
 });
